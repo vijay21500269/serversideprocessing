@@ -97,4 +97,5 @@ urlpatterns = [
 
 
 ## Result:
+The code to execute mathematical website in server side has been created successfully.
 
